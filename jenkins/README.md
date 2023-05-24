@@ -1,4 +1,4 @@
-# Prerequisites.
+# Prerequisites
 We used ansible playbook from [project](https://github.com/Alliedium/awesome-jenkins/) to install and set up Jenkins and to create multistaged [pipeline](https://www.jenkins.io/doc/book/pipeline/getting-started/). 
 
 # Pipeline description
