@@ -10,7 +10,7 @@
 <p align="center">
   A complete user registry, with access permissions, JWT token, integration and unit tests, using the RESTful API pattern.
 </p>
-
+        
 <br>
 <br>
 
